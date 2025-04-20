@@ -28,14 +28,14 @@ table,tr,td{
 }
 /*clase para los pies de pagina*/
 .pie{
-	font-family:fuente-RifficFree-Bold;
+	font-family:fuente-rifficFree-bold;
 	text-align:center;
 	font-size:20px;
 	font-weight:white;
 	
 }
 .encabezado{
-	font-family:fuente-RifficFree-Bold;
+	font-family:fuente-rifficFree-bold;
 	text-align:center;
 	font-size:35px;
 	font-weight:bold;
@@ -44,14 +44,14 @@ table,tr,td{
 }
 /*Divs*/
 div#top{
-	font-family:fuente-RifficFree-Bold;
+	font-family:fuente-rifficFree-bold;
 	width:100%;
 	height:75px;
 	background-image:linear-gradient(#0FA179,#45B39D);
 	
 }
 div#¨ppag{
-	font-family:fuente-RifficFree-Bold;
+	font-family:fuente-rifficFree-bold;
 	width:100%;
 	height:75px;
 	background-image:linear-gradient(#0FA179,#45B39D);
@@ -211,28 +211,28 @@ div#¨ppag{
 }
 .navegacion-item:hover{
 	flex-grow:10;
-	font-family:fuente-KGRedHands;
+	font-family:fuente-kgredHands;
 }
 .navegacion-item:hover .navegacion-titulo{
 	transform:rotate(0);
-	font-family:fuente-KGRedHands;
+	font-family:fuente-kgredHands;
 }
 .navegacion-item:nth-child(1){
 	background:#45B39D;
-	font-family:fuente-KGRedHands;
+	font-family:fuente-kgredHands;
 }
 .navegacion-item:nth-child(2){
 	background:#45B39D;
-	font-family:fuente-KGRedHands;
+	font-family:fuente-kgredHands;
 }
 .navegacion-item:nth-child(3){
 	background:#45B39D;
-	font-family:fuente-KGRedHands;
+	font-family:fuente-kgredHands;
 }
 
 .navegacion-item:nth-child(4){
 	background:#45B39D;
-	font-family:fuente-KGRedHands;
+	font-family:fuente-kgredHands;
 }
 
 .imagenes{
@@ -247,14 +247,14 @@ div#¨ppag{
 }
 /*fuentes*/
 @font-face{
-	font-family:fuente-Abrosia;
+	font-family:fuente-abrosia;
 	src:url(../fuentes/Abrosia.ttf);
 }
 	@font-face{
-	font-family:fuente-KGRedHands;
+	font-family:fuente-kgredHands;
 	src:url(../fuentes/KGRedHands.ttf);
 }
 @font-face{
-	font-family:fuente-RifficFree-Bold;
+	font-family:fuente-rifficFree-bold;
 	src:url(../fuentes/RifficFree-Bold.ttf);
 }
