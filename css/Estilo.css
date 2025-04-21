@@ -187,6 +187,11 @@ div#¨ppag{
 	text-align:justify;
 }
 
+.texto-adicionaldocumentacion{
+	padding-top:10px;
+	font-size:20px;
+	text-align:center;
+}
 /*menu de navegacion*/
 
 .navegacion{
