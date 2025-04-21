@@ -248,13 +248,13 @@ div#¨ppag{
 /*fuentes*/
 @font-face{
 	font-family:fuente-abrosia;
-	src:url(../fuentes/Abrosia.ttf);
+	src:url(../Fuentes/Abrosia.ttf);
 }
 	@font-face{
 	font-family:fuente-kgredHands;
-	src:url(../fuentes/KGRedHands.ttf);
+	src:url(../Fuentes/KGRedHands.ttf);
 }
 @font-face{
 	font-family:fuente-rifficFree;
-	src:url(../fuentes/RifficFree-Bold.ttf);
+	src:url(../Fuentes/RifficFree-Bold.ttf);
 }
